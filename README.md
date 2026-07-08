@@ -33,7 +33,7 @@ A complete RESTful API for e-commerce applications with Products, Categories, Ca
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/demonkeo-creator/ecommerce-api.git
+git clone [https://github.com/demonkeo-creator/ecommerce-api.git](https://github.com/demonkeo-creator/e-commerce-api.git)
 cd ecommerce-api
 
 # 2. Install dependencies
